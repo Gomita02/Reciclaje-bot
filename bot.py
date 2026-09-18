@@ -38,4 +38,4 @@ async def reciclar(ctx, *, objeto):
         )
 
 
-bot.run("MTU1MDMwOTYwMDUwOTU1ODc4NA.GoVQ1h.B58Cm54E9E_FlAgAIXY2lrd50H8dZhyk7spCxc")
+bot.run("el token va aqui")
